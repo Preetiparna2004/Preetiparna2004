@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Preetiparna Prusty</h1>
 <h3 align="center">Passionate about [Technology] 😉Always learning</h3>
-<img align="right" alt="coding" width="40"src="https://tenor.com/3Kua.gif">
+<img align="right" alt="coding" width="40"src="https://images.app.goo.gl/TjKkRzJw1a6zhpmy8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetiparna2004&label=Profile%20views&color=0e75b6&style=flat" alt="preetiparna2004" /> </p>
 
